@@ -6,3 +6,4 @@ Men 8-sinf o'quvchisiman. Dasturlashni o'rganyapman.
 ## Loyihalarim
 - Shaxsiy sahifa (about-me)
 - Uyda GitHub saytida qo'shilgan qator
+- Kalkulyator (tez orada)
